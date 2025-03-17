@@ -5,8 +5,7 @@ Dataset-Financial dataset
 Steps-1. Prepare csv file 2. Create tables in SQL 3. import csv file into SQL 
 Insights-WoW change:  
 •	Revenue increased by 28.8%,  
-•	Total Transaction Amt & Count increased by xx% & xx% 
-•	Customer count increased by xx% Overview YTD: 
+•	Customer count increased by 23% Overview YTD: 
 •	Overall revenue is 57M 
 •	Total interest is 8M 
 •	Total transaction amount is 46M 
